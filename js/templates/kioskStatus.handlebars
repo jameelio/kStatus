@@ -1,0 +1,22 @@
+<thead>
+  <tr class="bg-primary">
+     <th>Id</th>
+     <th>NAME</th>
+     <th>GROUP</th>
+     <th>LAST CHECKIN</th>
+     <th>BATTERY</th>
+     <th>CHARGING</th>  
+  </tr>
+</thead>
+<tbody>
+{{#each data}}
+   <tr>
+   <td>{{_id}}</td>
+   <td>{{name}}</td>
+   <td>{{group}}</td>
+   <td>{{last_checkin}}</td>
+   <td>{{battery}}</td>
+   <td>{{charging}}</td>
+   </tr>
+{{/each}}
+</tbody>

@@ -1,0 +1,11 @@
+{
+  "name": "kiosk-status",
+  "description": "kiosk status loader",
+  "main": "",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "bootstrap4#^3.3.7",
+    "fetch": "^2.0.3",
+    "handlebars": "^4.0.5"
+  }
+}
