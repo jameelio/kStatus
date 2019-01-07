@@ -2,7 +2,7 @@
 (function() {
 'use strict';
 
-var ROOT = 'https://slade-slade-colling.c9users.io/kiosks/';
+var ROOT = 'https://xxxxxx.co.za/kiosks/';
 
 var   BUTTON_STATUS_LOAD = 'LOAD STATUS',
       BUTTON_STATUS_BUSY = 'LOADING...',
